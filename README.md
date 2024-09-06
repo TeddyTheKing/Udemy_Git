@@ -1,2 +1,2 @@
 # Udemy_JS
-JS complete tutorial from udemy.com
+JS git tutorial from udemy.com
